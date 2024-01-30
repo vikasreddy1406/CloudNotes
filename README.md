@@ -1,3 +1,14 @@
+# CloudNotes is a MERN stack application
+
+### To start the application ->npm run both
+
+![Screenshot 2024-01-31 012622](https://github.com/vikasreddy1406/CloudNotes/assets/96761217/bc52cee6-9294-42d0-8b42-678b1a0918dc)
+
+![Screenshot 2024-01-31 012818](https://github.com/vikasreddy1406/CloudNotes/assets/96761217/d31a46f3-2727-4552-8a62-c3fa56d3c161)
+
+![Screenshot 2024-01-31 012843](https://github.com/vikasreddy1406/CloudNotes/assets/96761217/12ee2390-e5d4-4a8f-8e66-c21501d08b06)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
